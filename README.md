@@ -46,9 +46,11 @@ Finance-Analytics-Project/
 │   ├── visualization_and_insights.ipynb
 │
 ├── sql/
-│   ├── business insights queries.sql
-│   ├── .sql
-│   └── analysis_queries.sql
+│   ├── 01_data exploration queries.sql
+│   ├── 02_data cleaning queries.sql
+│   ├── 03_business insights queries.sql
+|   ├── schema.sql
+|   └── staging_finance_raw.sql
 │
 ├── images/
 │   └── dashboard_visuals.png
