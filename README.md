@@ -98,3 +98,16 @@ Finance-Analytics-Project/
   ![financial score by region](images/financial_score_by_region.png)
 - Customer segmentation reveals clear groups such as “Wealthy – Low Risk” and “Low Income – High Risk”.
   ![](images/DTI_vs_income.png)
+
+## 🧠 Skills Demonstrated
+- Financial data analysis & interpretation
+- SQL analytics & data modeling
+- Pandas-based EDA & feature engineering
+- Data visualization & storytelling
+- Business-focused insight generation
+
+## 🚀 Future Enhancements
+- Predictive modeling for credit risk
+- Interactive dashboard using Power BI / Tableau
+- Time-series forecasting of income and expenses
+- Clustering-based customer personas
