@@ -88,3 +88,8 @@ Finance-Analytics-Project/
 - Regional and time-based financial trends
 
 ## 📌 Sample Business Insights
+- Higher income users show greater spending variability, indicating diverse lifestyle choices.
+- A significant portion of users operate close to the income-expense breakeven point, limiting savings.
+- High debt-to-income ratios strongly correlate with lower credit scores, indicating default risk.
+- Financial wellness varies by region, driven by savings discipline and debt exposure.
+- Customer segmentation reveals clear groups such as “Wealthy – Low Risk” and “Low Income – High Risk”.
