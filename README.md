@@ -58,3 +58,33 @@ Finance-Analytics-Project/
 ├── README.md
 └── requirements.txt
 ```
+## 🔍 Key Analysis Performed
+### 🧹 Data Cleaning & Validation
+- Handled missing and inconsistent values
+- Validated financial ranges (credit score, income, expenses)
+- Ensured data integrity across users, loans, and regions
+
+### 📊 Exploratory Data Analysis
+- Income and expense distribution
+- Demographic insights by region, education, and employment
+- Savings patterns across age and income groups
+
+### 💳 Debt & Credit Risk Analysis
+- Debt-to-income (DTI) risk segmentation
+- EMI affordability analysis
+- Credit score profiling and trends
+
+### 🧠 Feature Engineering
+- Spending ratio
+- Net savings
+- EMI burden
+- Financial wellness score
+- Customer risk segmentation
+
+### 📈 Visualization & Dashboard Insights
+- Income vs Expense analysis
+- Savings and wellness comparison
+- Credit score vs debt risk
+- Regional and time-based financial trends
+
+## 📌 Sample Business Insights
