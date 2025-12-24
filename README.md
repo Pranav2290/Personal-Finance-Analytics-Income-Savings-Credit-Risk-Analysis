@@ -42,13 +42,12 @@ Finance-Analytics-Project/
 │   └── synthetic_personal_finance_dataset.csv
 │
 ├── notebooks/
-│   ├── 01_data_cleaning_and_eda.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   └── 03_visualization_and_insights.ipynb
+│   ├── cleaning_eda_featureEngineering.ipynb
+│   ├── visualization_and_insights.ipynb
 │
 ├── sql/
-│   ├── schema.sql
-│   ├── data_cleaning_queries.sql
+│   ├── business insights queries.sql
+│   ├── .sql
 │   └── analysis_queries.sql
 │
 ├── images/
