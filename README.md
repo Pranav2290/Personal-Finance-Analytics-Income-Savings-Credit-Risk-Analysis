@@ -89,7 +89,12 @@ Finance-Analytics-Project/
 
 ## 📌 Sample Business Insights
 - Higher income users show greater spending variability, indicating diverse lifestyle choices.
+  ![income vs expence](images/income_vs_expens.png)
 - A significant portion of users operate close to the income-expense breakeven point, limiting savings.
-- High debt-to-income ratios strongly correlate with lower credit scores, indicating default risk.
-- Financial wellness varies by region, driven by savings discipline and debt exposure.
+  ![income vs expence breckeven](images/income_vs_exp_breckeven.png)
+- Debt-to-income(DTI) ratio alone does not linearly determine credit score.
+  ![DTI vs credit score](images/DTI_vs_credit_score.png)
+- Financial wellness Score varies by region, driven by savings discipline and debt exposure.
+  ![financial score by region](images/financial_score_by_region.png)
 - Customer segmentation reveals clear groups such as “Wealthy – Low Risk” and “Low Income – High Risk”.
+  ![](images/DTI_vs_income.png)
